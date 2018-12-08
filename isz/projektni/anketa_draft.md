@@ -37,9 +37,9 @@
 
 10. Da li biste ovakav servis preporucili prijateljima? [1/5]
 
-11. Da li biste platili za dodatne funkcijonalnosti ovoga sistema (prednost pri rezervaciji, biranje mjesta, krace vrijeme otkazivanja rezervacije i sl.)? [1/5]
+11. Da li biste platili za dodatne funkcionalnosti ovoga sistema (prednost pri rezervaciji, biranje mjesta, krace vrijeme otkazivanja rezervacije i sl.)? [1/5]
 
-12. Da li bi koristili funkcijonalnost poklanjanja karata drugim korisnicima? [d/n]
+12. Da li bi koristili funkcionalnost poklanjanja karata drugim korisnicima? [d/n]
 
 13. Da li mislite da je ovakav servis neophodan? [1/5]
 
